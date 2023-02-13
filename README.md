@@ -1,1 +1,1 @@
-# Web-Scraping-with-Python-Project
+# Web-Scraping-with-Python-Project[[Project Brief] Web Scraping with Python Project.pdf](https://github.com/someda1/Web-Scraping-with-Python-Project/files/10726047/Project.Brief.Web.Scraping.with.Python.Project.pdf)
